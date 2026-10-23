@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Indigo & Violet AI Palette -->
+    <color name="primary_brand">#6366F1</color>
+    <color name="primary_brand_dark">#4F46E5</color>
+    <color name="accent_purple">#8B5CF6</color>
+
+    <color name="user_msg_text">#FFFFFF</color>
+    <color name="bot_msg_bg">#FFFFFF</color>
+    <color name="bot_msg_text">#0F172A</color>
+    <color name="bot_msg_border">#E2E8F0</color>
+
+    <color name="chat_bg">#F8FAFC</color>
+    <color name="header_bg">#FFFFFF</color>
+    <color name="online_green">#10B981</color>
+    <color name="status_connected">#059669</color>
+    <color name="status_connecting">#E11D48</color>
+</resources>

@@ -1,4 +1,4 @@
-﻿# Android Development Internship
+# Android Development Internship
 
 A curated collection of native Android applications built as part of an **Android Development Internship** program.
 Each task demonstrates key Android concepts using **Kotlin**, **XML Layouts**, **Material Design 3**, and modern Android development best practices.
@@ -14,6 +14,7 @@ Each task demonstrates key Android concepts using **Kotlin**, **XML Layouts**, *
 | **Task 3** | [MyFirstApp](./MyFirstApp) | An Android UI app featuring custom typography, gradient styling, and interactive elements. | Kotlin, XML, Material Components | ✅ Completed |
 | **Task 4** | [recycleBing](./recycleBing) | A Friend Request management app using RecyclerView and CardView with a dynamic data adapter. | Kotlin, RecyclerView, CardView | ✅ Completed |
 | **Task 5** | [LinkdinProfile](./LinkdinProfile) | A LinkedIn Profile UI clone featuring custom cards, badges, and responsive profile sections. | Kotlin, XML, ConstraintLayout, Material UI | ✅ Completed |
+| **Task 6** | [AIChatBot](./AIChatBot) | A native Android AI Chatbot powered by Google Gemini API with smart Markdown rendering and chat UI. | Kotlin, Gemini API, OkHttp, Coroutines | ✅ Completed |
 
 ---
 
@@ -31,7 +32,7 @@ Each task demonstrates key Android concepts using **Kotlin**, **XML Layouts**, *
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/deepjyotidas21062005-design/Android-Development-Journey.git
+   git clone https://github.com/deepjyotidas21062005-design/Android-Dev-Journey-New.git
    ```
 
 2. **Open in Android Studio:**
